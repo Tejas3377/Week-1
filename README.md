@@ -1,2 +1,2 @@
-# Week-1
+# Tejas Gosavi Week-1
 Sustainable Agriculture : Plant Disease Detection using AI
